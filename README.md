@@ -237,3 +237,4 @@ Organizers are from [EdLab](https://mp2893.com/) @ [KAIST](https://gsai.kaist.ac
 * Sunjun Kweon
 * [Seongsu Bae](https://seongsubae.info/)
 
+# 24ALINhealth
